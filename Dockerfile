@@ -1,6 +1,6 @@
 FROM python:3.6
 
-MAINTAINER Ashok Bollepalli "ashokitschool@gmail.com"
+MAINTAINER Ankit Agrawal "ankit.nitjal@gmail.com"
 
 COPY . /app
 
